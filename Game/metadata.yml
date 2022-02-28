@@ -1,0 +1,12 @@
+---
+:id: 79020545
+:submitters:
+- :name: Marco Gabriel
+  :email: marcog10@csu.fullerton.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2021-05-11 20:54:27.908372000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2021-05-11 13:54:27.908372000 Z
+:status: processed
+:score: 95.0
