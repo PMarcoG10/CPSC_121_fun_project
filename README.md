@@ -1,7 +1,7 @@
 # fun_project
 This was a semster project for CPSC 121. In this Project we had to make a remake of the popular game Asteroids.
 
-#Learning objectives
+# Learning objectives
 1. Implement a complex programming project with multiple components.
 2. Refactor and refine code created from a previous milestone to solve newly introduced challenges in the next milestone.
 3. Design and implement software that makes appropriate use of fundamental programming constructs and data structures (e.g., expressions, conditions, loops, functions, primitive data types, vectors).
