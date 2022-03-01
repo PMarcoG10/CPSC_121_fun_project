@@ -1,5 +1,5 @@
 # fun_project
-This was a semster project for CPSC 121. In this Project we had to make a remake of the popular game Asteroids.
+This was a semster project for CPSC 121. In this Project we had to make a remake of the popular game Space Invaders.
 
 # Learning objectives
 1. Implement a complex programming project with multiple components.
