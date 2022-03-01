@@ -1,6 +1,7 @@
 # Project specifications
 The goal of the project is to develop a graphical game based on Space Invaders. Although the project is based on the original game, you are free to design your own game theme. For example, below we have an Aerial Fire Fighting game where a firefighter plane puts out forest fires on the map.
 ![image](https://user-images.githubusercontent.com/60152830/156079282-344127d0-0736-4857-8fad-5c2f1185fd8a.png)
+
 The program will take mouse input from the user to move their character around the map, launch projectiles that will eliminate opponents, and avoid colliding with opponents and their opponent's projectiles.
 
 The software should be designed using the object-oriented programming paradigm so that the code can easily be modified, extended, and scaled by other developers. It is equally important to provide sufficient internal documentation to help other developers understand the code and encourage them to contribute to its development.
